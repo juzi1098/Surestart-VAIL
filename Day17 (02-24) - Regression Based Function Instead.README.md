@@ -1,0 +1,3 @@
+# Surestart-VAIL
+
+Using the binary cross entropy loss function on the housing price data in Day 17(02-24) - Loss Functions" produced a model .......
